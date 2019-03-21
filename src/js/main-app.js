@@ -1,5 +1,5 @@
 require('../scss/main.scss');
-require('./quiz.js');
+require('./explainer.js');
 
 window.$('.icon-facebook').click((e) => {
   e.preventDefault();
